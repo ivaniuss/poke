@@ -1,0 +1,37 @@
+# --- Projects ---
+pokemonAutoChess/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.*
+
+# --- Distribution / packaging ---
+dist/
+build/
+*.egg-info/
+
+# --- IDEs / Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Project Specific ---
+pokebot/.venv/
+pokebot/.env
+pokebot/__pycache__/
+node_modules/
+
+# --- Logs ---
+*.log
