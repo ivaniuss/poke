@@ -1,0 +1,1994 @@
+{
+  "TWISTED_SPOON": {
+    "name": "TWISTED_SPOON",
+    "stats": {
+      "ap": 10,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+10 AP"
+  },
+  "MAGNET": {
+    "name": "MAGNET",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 10,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+10 SPEED"
+  },
+  "BLACK_GLASSES": {
+    "name": "BLACK_GLASSES",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 10,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+10% CRIT_CHANCE"
+  },
+  "MIRACLE_SEED": {
+    "name": "MIRACLE_SEED",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 15,
+      "range": 0
+    },
+    "description": "+15 HP"
+  },
+  "CHARCOAL": {
+    "name": "CHARCOAL",
+    "stats": {
+      "ap": 0,
+      "atk": 3,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+3 ATK"
+  },
+  "NEVER_MELT_ICE": {
+    "name": "NEVER_MELT_ICE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 3,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+3 SPE_DEF"
+  },
+  "HEART_SCALE": {
+    "name": "HEART_SCALE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 3,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+3 DEF"
+  },
+  "MYSTIC_WATER": {
+    "name": "MYSTIC_WATER",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 15,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+15 PP"
+  },
+  "OLD_AMBER": {
+    "name": "OLD_AMBER",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder gains the FOSSIL type"
+  },
+  "DAWN_STONE": {
+    "name": "DAWN_STONE",
+    "stats": {
+      "ap": 20,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder gains the PSYCHIC type"
+  },
+  "WATER_STONE": {
+    "name": "WATER_STONE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 30,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder gains the WATER type"
+  },
+  "THUNDER_STONE": {
+    "name": "THUNDER_STONE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 20,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder gains the ELECTRIC type"
+  },
+  "FIRE_STONE": {
+    "name": "FIRE_STONE",
+    "stats": {
+      "ap": 0,
+      "atk": 6,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder gains the FIRE type"
+  },
+  "MOON_STONE": {
+    "name": "MOON_STONE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 6,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder gains the FAIRY type"
+  },
+  "DUSK_STONE": {
+    "name": "DUSK_STONE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 20,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder gains the DARK type"
+  },
+  "LEAF_STONE": {
+    "name": "LEAF_STONE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 30,
+      "range": 0
+    },
+    "description": "The holder gains the GRASS type"
+  },
+  "ICE_STONE": {
+    "name": "ICE_STONE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 6,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder gains the ICE type"
+  },
+  "CHOICE_SPECS": {
+    "name": "CHOICE_SPECS",
+    "stats": {
+      "ap": 100,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder gains 100 bonus AP"
+  },
+  "SOUL_DEW": {
+    "name": "SOUL_DEW",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "During combat, the holder gains 5 AP and 5 PP every second"
+  },
+  "UPGRADE": {
+    "name": "UPGRADE",
+    "stats": {
+      "ap": 10,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 10,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Attacks grant +5 SPEED (stackable)"
+  },
+  "REAPER_CLOTH": {
+    "name": "REAPER_CLOTH",
+    "stats": {
+      "ap": 10,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 20,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder's ability can now critically strike based on CRIT_CHANCE. If the ability can already critically strike by default, increase CRIT_POWER by 50% instead."
+  },
+  "POKEMONOMICON": {
+    "name": "POKEMONOMICON",
+    "stats": {
+      "ap": 30,
+      "atk": 3,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "When the holder deals SPECIAL, they BURN the target for 3 seconds and reduce its SPE_DEF by 1."
+  },
+  "POWER_LENS": {
+    "name": "POWER_LENS",
+    "stats": {
+      "ap": 10,
+      "atk": 0,
+      "def": 0,
+      "speDef": 10,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The amount of SPECIAL blocked by SPE_DEF is inflicted back to the attacker"
+  },
+  "SHELL_BELL": {
+    "name": "SHELL_BELL",
+    "stats": {
+      "ap": 0,
+      "atk": 5,
+      "def": 0,
+      "speDef": 5,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Holder heals for 33% of all damages inflicted"
+  },
+  "HEAVY_DUTY_BOOTS": {
+    "name": "HEAVY_DUTY_BOOTS",
+    "stats": {
+      "ap": 50,
+      "atk": 0,
+      "def": 12,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Holder is immune to any BOARD_EFFECT, forced displacement and LOCKED"
+  },
+  "AQUA_EGG": {
+    "name": "AQUA_EGG",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 30,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder regains 20% of its max PP after casting its ability, + 2 PP for each cast done in the fight"
+  },
+  "BLUE_ORB": {
+    "name": "BLUE_ORB",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 10,
+      "pp": 15,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Every 3 attacks, unleashes a chain lightning that bounces to the 2 closest enemies, dealing 10 SPECIAL and burning 15 PP"
+  },
+  "SCOPE_LENS": {
+    "name": "SCOPE_LENS",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 15,
+      "critChance": 25,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Critical attacks steal 10 PP from the target."
+  },
+  "STAR_DUST": {
+    "name": "STAR_DUST",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 10,
+      "speed": 0,
+      "pp": 15,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "After casting ability, gain 50% of max PP as SHIELD"
+  },
+  "GREEN_ORB": {
+    "name": "GREEN_ORB",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 15,
+      "range": 0
+    },
+    "description": "Holder and ADJACENT allies regain 5% of their max HP every 2 seconds. 30% of overheal is converted to PP."
+  },
+  "DEEP_SEA_TOOTH": {
+    "name": "DEEP_SEA_TOOTH",
+    "stats": {
+      "ap": 0,
+      "atk": 7,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 15,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder attacks restore 5 additional PP. If the attack knocks out the target, restore 15 additional PP."
+  },
+  "SMOKE_BALL": {
+    "name": "SMOKE_BALL",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 10,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Once below 40% max HP, drop the smoke ball, gain 70 SHIELD and jump to a tile away. Every ADJACENT enemy is PARALYSIS and BLINDED for 4 seconds."
+  },
+  "XRAY_VISION": {
+    "name": "XRAY_VISION",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 50,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Holder is immune to SLEEP and their attacks can no longer miss."
+  },
+  "RAZOR_FANG": {
+    "name": "RAZOR_FANG",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 10,
+      "pp": 0,
+      "critChance": 10,
+      "critPower": 100,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+100% CRIT_POWER. Critical attacks apply ARMOR_BREAK for 2 seconds."
+  },
+  "LOADED_DICE": {
+    "name": "LOADED_DICE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 3,
+      "speed": 10,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 30,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Attacks have [50,LK]% chance to also hit the lowest health enemy ADJACENT to target for 75% of the damage, which also trigger on-hit effects."
+  },
+  "PUNCHING_GLOVE": {
+    "name": "PUNCHING_GLOVE",
+    "stats": {
+      "ap": 0,
+      "atk": 3,
+      "def": 0,
+      "speDef": 0,
+      "speed": 10,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Attacks deal 8 % of target max HP as additional PHYSICAL on hit"
+  },
+  "MUSCLE_BAND": {
+    "name": "MUSCLE_BAND",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 3,
+      "speDef": 0,
+      "speed": 10,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "When the holder takes damage, gain 1 stack. Every 2 stacks, the holder gains +2 DEF, +1 ATK and +5 SPEED (max 20 stacks)"
+  },
+  "STICKY_BARB": {
+    "name": "STICKY_BARB",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 6,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 15,
+      "range": 0
+    },
+    "description": "When struck by an attack at melee range, deal 3 + 15% of DEF as retaliation TRUE and inflict WOUND for 3 seconds to the attacker."
+  },
+  "ABILITY_SHIELD": {
+    "name": "ABILITY_SHIELD",
+    "stats": {
+      "ap": 10,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "When combat begins, the holder and allies ADJACENT_IN_THE_SAME_ROW receive 20% of their max HP as SHIELD and RUNE_PROTECT for 5 seconds"
+  },
+  "WIDE_LENS": {
+    "name": "WIDE_LENS",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 3,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 15,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 2
+    },
+    "description": "The holder gains +2 RANGE"
+  },
+  "RAZOR_CLAW": {
+    "name": "RAZOR_CLAW",
+    "stats": {
+      "ap": 0,
+      "atk": 3,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 50,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder gains +50% CRIT_CHANCE"
+  },
+  "SAFETY_GOGGLES": {
+    "name": "SAFETY_GOGGLES",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 3,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 10,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Holder is immune to all negative status effects and to sandstorm damage"
+  },
+  "KINGS_ROCK": {
+    "name": "KINGS_ROCK",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 100,
+      "range": 0
+    },
+    "description": "+100 HP. 20% of max HP are gained as SHIELD when combat begins."
+  },
+  "SHINY_CHARM": {
+    "name": "SHINY_CHARM",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 3,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Prevents damage and give PROTECT for 1.5 seconds and 50 PP the first time the holder gets below 30% HP"
+  },
+  "PROTECTIVE_PADS": {
+    "name": "PROTECTIVE_PADS",
+    "stats": {
+      "ap": 0,
+      "atk": 6,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 60,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Holder deals double damage against units with  SHIELD, and is protected from recoil damage and retaliation effects."
+  },
+  "ASSAULT_VEST": {
+    "name": "ASSAULT_VEST",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 40,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+40 SPE_DEF. Reduce BURN and POISONNED damage by 50%"
+  },
+  "AMULET_COIN": {
+    "name": "AMULET_COIN",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+1 GOLD each time the holder knocks out an opponent.\nReduce max interest cap by 10 GOLD."
+  },
+  "POKE_DOLL": {
+    "name": "POKE_DOLL",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 3,
+      "speDef": 3,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Reduce all incoming PHYSICAL and SPECIAL by 30%. Makes the holder more likely to be targeted."
+  },
+  "RED_ORB": {
+    "name": "RED_ORB",
+    "stats": {
+      "ap": 0,
+      "atk": 10,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "25% of attack damage is dealt as TRUE"
+  },
+  "FLAME_ORB": {
+    "name": "FLAME_ORB",
+    "stats": {
+      "ap": 0,
+      "atk": 5,
+      "def": 3,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Holder increases its base ATK by 100% and is immune to FREEZE, but suffers from BURN during the entire fight."
+  },
+  "ROCKY_HELMET": {
+    "name": "ROCKY_HELMET",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 25,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+25 DEF. Negates critical bonus damage from all incoming critical hits."
+  },
+  "MAGMARIZER": {
+    "name": "MAGMARIZER",
+    "stats": {
+      "ap": 0,
+      "atk": 5,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives FIRE synergy. The holder doesn't take BURN damage. Instead, it gains 30 SPEED when burning."
+  },
+  "MACHO_BRACE": {
+    "name": "MACHO_BRACE",
+    "stats": {
+      "ap": 0,
+      "atk": 15,
+      "def": 0,
+      "speDef": 0,
+      "speed": -15,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives FIGHTING synergy."
+  },
+  "LIGHT_BALL": {
+    "name": "LIGHT_BALL",
+    "stats": {
+      "ap": 50,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives LIGHT synergy."
+  },
+  "DRAGON_SCALE": {
+    "name": "DRAGON_SCALE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 5,
+      "speDef": 5,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives DRAGON synergy as first synergy."
+  },
+  "METRONOME": {
+    "name": "METRONOME",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 5,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives SOUND synergy. Every second, the holder gains 5 PP."
+  },
+  "METAL_COAT": {
+    "name": "METAL_COAT",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 10,
+      "speDef": 10,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives STEEL synergy."
+  },
+  "AIR_BALLOON": {
+    "name": "AIR_BALLOON",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 30,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives FLYING synergy. Gain 10% chance to dodge attacks and immunity to any BOARD_EFFECT."
+  },
+  "EXPLORER_KIT": {
+    "name": "EXPLORER_KIT",
+    "stats": {
+      "ap": 0,
+      "atk": 3,
+      "def": 5,
+      "speDef": 5,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives GROUND synergy. Increase the [LK] chance to find gold buried in the ground."
+  },
+  "PROTECTOR": {
+    "name": "PROTECTOR",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 75,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives ROCK synergy."
+  },
+  "BERSERK_GENE": {
+    "name": "BERSERK_GENE",
+    "stats": {
+      "ap": 0,
+      "atk": 10,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives MONSTER synergy. The holder gets CONFUSION for 3 seconds if gaining MONSTER stacks."
+  },
+  "ELECTIRIZER": {
+    "name": "ELECTIRIZER",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 10,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives ELECTRIC synergy. Every third attack inflicts PARALYSIS for 2 seconds."
+  },
+  "TERRAIN_EXTENDER": {
+    "name": "TERRAIN_EXTENDER",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 20,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 50,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "At the start of the fight, holder gains either ELECTRIC_FIELD, GRASS_FIELD, PSYCHIC_FIELD or FAIRY_FIELD based on its synergies. When casting its ability, spread the field effect to all allies sharing the field's synergy."
+  },
+  "INCENSE": {
+    "name": "INCENSE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 10,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 30,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives FLORA synergy. Each Pokémon in shop has an additional 5% chance to share a common synergy with the holder."
+  },
+  "COOKING_POT": {
+    "name": "COOKING_POT",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 10,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives GOURMET synergy. When BURN, the COOKING_POT is heated little by little which gives 10 SPEED per second."
+  },
+  "RUNNING_SHOES": {
+    "name": "RUNNING_SHOES",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 15,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives FIELD synergy. The holder gains 5 SPEED every tile they move (jumps and dashes count for one tile)."
+  },
+  "EVIOLITE": {
+    "name": "EVIOLITE",
+    "stats": {
+      "ap": 50,
+      "atk": 10,
+      "def": 10,
+      "speDef": 10,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 100,
+      "range": 0
+    },
+    "description": "Holder gets a bunch of stats, but can no longer evolve. Can only be given to non-fully evolved Pokémon."
+  },
+  "GOLD_BOTTLE_CAP": {
+    "name": "GOLD_BOTTLE_CAP",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 30,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 50,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "+1% CRIT_POWER per GOLD you have. Gain 1 GOLD per KO. If eliminating the last enemy, get a Jackpot that doubles the amount gained during the round."
+  },
+  "COMET_SHARD": {
+    "name": "COMET_SHARD",
+    "stats": {
+      "ap": 0,
+      "atk": 15,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Starts the round by diving like a comet on an enemy at the opposite side of the board, dealing 300% ATK as SPECIAL to target and 100% ATK as SPECIAL to ADJACENT enemies, while gaining PROTECT for 2 seconds."
+  },
+  "SHINY_STONE": {
+    "name": "SHINY_STONE",
+    "stats": {
+      "ap": 50,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives LIGHT synergy. A second spotlight is projected onto the holder's tile at the start of the fight."
+  },
+  "ABSORB_BULB": {
+    "name": "ABSORB_BULB",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 20,
+      "speDef": 20,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "All the damage reduction is absorbed by the bulb. Once under 50% HP, bulb explodes, dealing all damage absorbed to ADJACENT enemy units as SPECIAL."
+  },
+  "GOLD_BOW": {
+    "name": "GOLD_BOW",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 50,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder does not count for team size limit."
+  },
+  "TEAL_MASK": {
+    "name": "TEAL_MASK",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 30,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 100,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "This carved wooden mask is adorned with crystals, grants Ogerpon the FLORA type during battle. Ogerpon loses its mask when its shield is depleted."
+  },
+  "WELLSPRING_MASK": {
+    "name": "WELLSPRING_MASK",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 10,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 100,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "This carved wooden mask is adorned with crystals, grants Ogerpon the AQUATIC type during battle. Ogerpon loses its mask when its shield is depleted."
+  },
+  "CORNERSTONE_MASK": {
+    "name": "CORNERSTONE_MASK",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 10,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 100,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "This carved wooden mask is adorned with crystals, grants Ogerpon the ROCK type during battle. Ogerpon loses its mask when its shield is depleted."
+  },
+  "HEARTHFLAME_MASK": {
+    "name": "HEARTHFLAME_MASK",
+    "stats": {
+      "ap": 0,
+      "atk": 10,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 100,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "This carved wooden mask is adorned with crystals, grants Ogerpon the FIRE type during battle. Ogerpon loses its mask when its shield is depleted."
+  },
+  "SILK_SCARF": {
+    "name": "SILK_SCARF",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 15,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Combine it with other item components to make all kinds of scarves, bands and bows. Those items will be removed if you lower down NORMAL synergy level."
+  },
+  "FRIEND_BOW": {
+    "name": "FRIEND_BOW",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 30,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder gains the NORMAL type."
+  },
+  "BLACK_BELT": {
+    "name": "BLACK_BELT",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 20,
+      "critPower": 0,
+      "shield": 15,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Critical attacks provide 33% of the damage dealt as SHIELD."
+  },
+  "NULLIFY_BANDANNA": {
+    "name": "NULLIFY_BANDANNA",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 30,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Holder can no longer cast its ability. AP is converted to SHIELD, and PP are converted to bonus SPECIAL on next attack."
+  },
+  "LUCKY_RIBBON": {
+    "name": "LUCKY_RIBBON",
+    "stats": {
+      "ap": 50,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 15,
+      "luck": 30,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Holder has 30% more LUCK and has [15,LK]% chance to dodge attacks."
+  },
+  "EXPLOSIVE_BAND": {
+    "name": "EXPLOSIVE_BAND",
+    "stats": {
+      "ap": 0,
+      "atk": 3,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 50,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The first time user shield is depleted, this item explodes, dealing 50% of all SHIELD gained so far as SPECIAL to ADJACENT enemies."
+  },
+  "TWIST_BAND": {
+    "name": "TWIST_BAND",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 20,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 50,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Stat debuffs inflicted by enemies become buffs instead. Holder stat buffs cannot be stolen."
+  },
+  "BIG_EATER_BELT": {
+    "name": "BIG_EATER_BELT",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 15,
+      "luck": 0,
+      "hp": 50,
+      "range": 0
+    },
+    "description": "Increase all stat buffs received by 25% (rounded down, not affecting PP). Allows the wearer to eat 2 different dishes per round."
+  },
+  "MACH_RIBBON": {
+    "name": "MACH_RIBBON",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 10,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 15,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Every 3 seconds, gain 15 SPEED."
+  },
+  "COVER_BAND": {
+    "name": "COVER_BAND",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 12,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 50,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "If an ADJACENT ally is about to get KO with some incoming damage, the wearer takes the damage instead."
+  },
+  "EFFICIENT_BANDANNA": {
+    "name": "EFFICIENT_BANDANNA",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 15,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 15,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder and allies ADJACENT_IN_THE_SAME_ROW have their max PP reduced by 15%."
+  },
+  "TATSUGIRI_CURLY": {
+    "name": "TATSUGIRI_CURLY",
+    "stats": {
+      "ap": 0,
+      "atk": 8,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Can command a Dondozo."
+  },
+  "TATSUGIRI_DROOPY": {
+    "name": "TATSUGIRI_DROOPY",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 8,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Can command a Dondozo."
+  },
+  "TATSUGIRI_STRETCHY": {
+    "name": "TATSUGIRI_STRETCHY",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 25,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Can command a Dondozo."
+  },
+  "GRACIDEA_FLOWER": {
+    "name": "GRACIDEA_FLOWER",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "components": [
+      "MAGNET",
+      "MIRACLE_SEED"
+    ],
+    "description": "When combat begins, the holder and allies ADJACENT_IN_THE_SAME_ROW gain +20 SPEED"
+  },
+  "WONDER_BOX": {
+    "name": "WONDER_BOX",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "components": [
+      "BLACK_GLASSES",
+      "BLACK_GLASSES"
+    ],
+    "description": "At the beginning of each battle, WONDER_BOX is replaced by 2 temporary random craftable items (max 3 items held)"
+  },
+  "MAX_REVIVE": {
+    "name": "MAX_REVIVE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "components": [
+      "MIRACLE_SEED",
+      "NEVER_MELT_ICE"
+    ],
+    "description": "Give RESURRECTION, preventing the holder first KO and restoring to max HP"
+  },
+  "CHEF_HAT": {
+    "name": "CHEF_HAT",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "The holder will cook their Signature Dish between rounds."
+  },
+  "SPELL_TAG": {
+    "name": "SPELL_TAG",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives GHOST synergy. When the holder is KO, CURSE its attacker to be KO'd after 10 seconds"
+  },
+  "EXP_SHARE": {
+    "name": "EXP_SHARE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Get the best ATK, AP, DEF and SPE_DEF values of allies ADJACENT_IN_THE_SAME_ROW."
+  },
+  "DYNAMAX_BAND": {
+    "name": "DYNAMAX_BAND",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "At the start of the fight, raise max HP by 200%."
+  },
+  "POKERUS_VIAL": {
+    "name": "POKERUS_VIAL",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives POISON synergy. Infects the holder with POKERUS, gaining 1 ATK and 10 AP every 3 seconds and transmitting to ADJACENT allies."
+  },
+  "SACRED_ASH": {
+    "name": "SACRED_ASH",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives RESURRECTION. After resurrecting, up to 3 allies KO are resurrected as well, but without items."
+  },
+  "RUSTED_SWORD": {
+    "name": "RUSTED_SWORD",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "It is said that a hero used this sword to halt a terrible disaster in ancient times. Gives the holder +50% base ATK. Transfers to the ally with the weakest ATK when the holder faints."
+  },
+  "SURFBOARD": {
+    "name": "SURFBOARD",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives AQUATIC synergy. The holder casts [ref] at every tidal wave, with the ability level matching current AQUATIC synergy level."
+  },
+  "WHITE_FLUTE": {
+    "name": "WHITE_FLUTE",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Spawn 3 WILD Pokémon around the holder at the start of the fight. Rarity and tier increase with stage level."
+  },
+  "RARE_CANDY": {
+    "name": "RARE_CANDY",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Immediately make a Pokémon evolve. Can only be given to Pokémon that can evolve, and reduce its sell price to its previous tier."
+  },
+  "MAX_ELIXIR": {
+    "name": "MAX_ELIXIR",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Restores 100% of max PP 1 second after the first ability cast."
+  },
+  "TINY_MUSHROOM": {
+    "name": "TINY_MUSHROOM",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Gives 30 SPEED and reduce max HP by 30% for the next fight when consumed. Will be sold for 1 GOLD when returning to town."
+  },
+  "SALAC_BERRY": {
+    "name": "SALAC_BERRY",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Consumed once below 50% HP, heal 50 HP and gain 50 SPEED"
+  },
+  "GANLON_BERRY": {
+    "name": "GANLON_BERRY",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Consumed once below 50% HP, heal 50 HP and gain 20 DEF"
+  },
+  "APICOT_BERRY": {
+    "name": "APICOT_BERRY",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Consumed once below 50% HP, heal 50 HP and gain 20 SPE_DEF"
+  },
+  "LEPPA_BERRY": {
+    "name": "LEPPA_BERRY",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Consumed once below 50% HP or after casting ability, heal 50 HP and gain 50 PP"
+  },
+  "LUM_BERRY": {
+    "name": "LUM_BERRY",
+    "stats": {
+      "ap": 0,
+      "atk": 0,
+      "def": 0,
+      "speDef": 0,
+      "speed": 0,
+      "pp": 0,
+      "critChance": 0,
+      "critPower": 0,
+      "shield": 0,
+      "luck": 0,
+      "hp": 0,
+      "range": 0
+    },
+    "description": "Consumed once below 50% HP, heal 50 HP, clear negative status and get RUNE_PROTECT for 5 seconds"
+  }
+}
